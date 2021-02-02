@@ -25,6 +25,9 @@ This is just a live log for our convenience. Please open in incognito and ensure
 ## Serialize <-> Deserialize (u8 <-> i32)
 - [https://crates.io/crates/serialize_deserialize_u8_i32](https://crates.io/crates/serialize_deserialize_u8_i32)
 
+## Storage interface
+- [https://crates.io/crates/ssvm_storage_interface](https://crates.io/crates/ssvm_storage_interface)
+
 ## SSVMUP
 [https://www.secondstate.io/articles/ssvmup/](https://www.secondstate.io/articles/ssvmup/)
 
