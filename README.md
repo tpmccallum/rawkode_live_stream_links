@@ -22,6 +22,8 @@
 This is just a live log for our convenience. Please open in incognito and ensure only http not http**s**
 - [http://rpc.ssvm.secondstate.io:9001/](http://rpc.ssvm.secondstate.io:9001/)
 
+## Serialize <-> Deserialize (u8 <-> i32)
+- [https://crates.io/crates/serialize_deserialize_u8_i32](https://crates.io/crates/serialize_deserialize_u8_i32)
 
 
 
