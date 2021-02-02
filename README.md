@@ -14,6 +14,9 @@
 - [Image flipping](https://second-state.github.io/wasm-learning/faas/image-flip/html/index.html)
 - [Solving anagrams](https://second-state.github.io/wasm-learning/faas/find-anagrams/html/index.html)
 
+## API documentation
+- [API docs](https://documenter.getpostman.com/view/14130666/TVzPoKGK)
+
 ## SecondState FaaS logging via browser
 
 This is just a live log for our convenience. Please open in incognito and ensure only http not http**s**
