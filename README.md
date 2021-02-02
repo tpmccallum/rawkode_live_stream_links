@@ -25,6 +25,13 @@ This is just a live log for our convenience. Please open in incognito and ensure
 ## Serialize <-> Deserialize (u8 <-> i32)
 - [https://crates.io/crates/serialize_deserialize_u8_i32](https://crates.io/crates/serialize_deserialize_u8_i32)
 
+## SSVMUP
+[https://www.secondstate.io/articles/ssvmup/](https://www.secondstate.io/articles/ssvmup/)
+
+## Things to hack
+[Hello storage](https://github.com/second-state/wasm-learning/tree/master/faas/hello-storage)
+[Image thumbnail](https://github.com/second-state/wasm-learning/tree/master/faas/image-thumbnail)
+
 
 
 
